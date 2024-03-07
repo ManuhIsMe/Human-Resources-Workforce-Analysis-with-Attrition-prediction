@@ -1,4 +1,4 @@
-This project focuses on predicting employee churn and conducting in-depth analysis using machine learning and data analytics techniques. Employee turnover is a critical challenge for organizations, impacting productivity and morale. Understanding the factors contributing to churn and predicting potential departures can help companies take proactive measures to retain valuable talent.
+This project focuses on predicting employee attrition and conducting in-depth analysis using machine learning and data analytics techniques. Employee turnover is a critical challenge for organizations, impacting productivity and morale. Understanding the factors contributing to churn and predicting potential departures can help companies take proactive measures to retain valuable talent.
 
 Key Features:
 
